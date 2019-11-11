@@ -30,7 +30,7 @@ figcaption{
 }
 
 #details{
-  display: float left
+  display: inline;
 }
 
 
