@@ -30,7 +30,8 @@ figcaption{
 }
 
 #details{
-  display: flex ;
+  display: flex;
+  float: left;
 }
 
 
